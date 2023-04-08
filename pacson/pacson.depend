@@ -1,0 +1,731 @@
+# depslib dependency file v1.0
+1539830496 source:/tmp/guest-altid0/Área de Trabalho/Project_PAC_v1.2/EmpresaDesenvolvedora.cpp
+	"EmpresaDesenvolvedora.h"
+
+1539834065 senvolvedora.h"
+
+1539830444 /tmp/guest-altid0/Área de Trabalho/Project_PAC_v1.2/EmpresaDesenvolvedora.h
+	<iostream>
+	<vector>
+	<string>
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+
+1543238027 le.h"
+
+1539830458 /tmp/guest-altid0/Área de Trabalho/Project_PAC_v1.2/Jogo.h
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"PlataformaDigital.h"
+
+1539833978 aDigital.h"
+
+1539830353 /tmp/guest-altid0/Área de Trabalho/Project_PAC_v1.2/Genero.h
+	<iostream>
+	<vector>
+	<string>
+
+1543237839 
+
+1539830484 /tmp/guest-altid0/Área de Trabalho/Project_PAC_v1.2/PlataformaDigital.h
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"Jogo.h"
+
+1539830468 /tmp/guest-altid0/Área de Trabalho/Project_PAC_v1.2/JogoPC.h
+	"Jogo.h"
+	<iostream>
+
+1539830349 /tmp/guest-altid0/Área de Trabalho/Project_PAC_v1.2/JogoConsole.h
+	"Jogo.h"
+
+1539830384 source:/tmp/guest-altid0/Área de Trabalho/Project_PAC_v1.2/FuncoesDaMain.cpp
+	"FuncoesDaMain.h"
+	<stdlib.h>
+
+1539830465 /tmp/guest-altid0/Área de Trabalho/Project_PAC_v1.2/FuncoesDaMain.h
+	<iostream>
+	<vector>
+	<string>
+	"PlataformaDigital.h"
+	"EmpresaDesenvolvedora.h"
+
+1539830423 source:/tmp/guest-altid0/Área de Trabalho/Project_PAC_v1.2/Genero.cpp
+	"Genero.h"
+
+1539830369 source:/tmp/guest-altid0/Área de Trabalho/Project_PAC_v1.2/Jogo.cpp
+	"Jogo.h"
+
+1539830503 source:/tmp/guest-altid0/Área de Trabalho/Project_PAC_v1.2/JogoConsole.cpp
+	"JogoConsole.h"
+
+1539830506 source:/tmp/guest-altid0/Área de Trabalho/Project_PAC_v1.2/JogoPC.cpp
+	"JogoPC.h"
+
+1539830378 source:/tmp/guest-altid0/Área de Trabalho/Project_PAC_v1.2/PlataformaDigital.cpp
+	"PlataformaDigital.h"
+
+1539830496 source:/tmp/guest-ewjfl2/Área de Trabalho/asd/Project_PAC_v1.2/EmpresaDesenvolvedora.cpp
+	"EmpresaDesenvolvedora.h"
+
+1539830444 /tmp/guest-ewjfl2/Área de Trabalho/asd/Project_PAC_v1.2/EmpresaDesenvolvedora.h
+	<iostream>
+	<vector>
+	<string>
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+
+1539830458 /tmp/guest-ewjfl2/Área de Trabalho/asd/Project_PAC_v1.2/Jogo.h
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"PlataformaDigital.h"
+
+1539830353 /tmp/guest-ewjfl2/Área de Trabalho/asd/Project_PAC_v1.2/Genero.h
+	<iostream>
+	<vector>
+	<string>
+
+1539830484 /tmp/guest-ewjfl2/Área de Trabalho/asd/Project_PAC_v1.2/PlataformaDigital.h
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"Jogo.h"
+
+1539830468 /tmp/guest-ewjfl2/Área de Trabalho/asd/Project_PAC_v1.2/JogoPC.h
+	"Jogo.h"
+	<iostream>
+
+1539830349 /tmp/guest-ewjfl2/Área de Trabalho/asd/Project_PAC_v1.2/JogoConsole.h
+	"Jogo.h"
+
+1539830384 source:/tmp/guest-ewjfl2/Área de Trabalho/asd/Project_PAC_v1.2/FuncoesDaMain.cpp
+	"FuncoesDaMain.h"
+	<stdlib.h>
+
+1539830465 /tmp/guest-ewjfl2/Área de Trabalho/asd/Project_PAC_v1.2/FuncoesDaMain.h
+	<iostream>
+	<vector>
+	<string>
+	"PlataformaDigital.h"
+	"EmpresaDesenvolvedora.h"
+
+1539830423 source:/tmp/guest-ewjfl2/Área de Trabalho/asd/Project_PAC_v1.2/Genero.cpp
+	"Genero.h"
+
+1539830369 source:/tmp/guest-ewjfl2/Área de Trabalho/asd/Project_PAC_v1.2/Jogo.cpp
+	"Jogo.h"
+
+1539830503 source:/tmp/guest-ewjfl2/Área de Trabalho/asd/Project_PAC_v1.2/JogoConsole.cpp
+	"JogoConsole.h"
+
+1539830506 source:/tmp/guest-ewjfl2/Área de Trabalho/asd/Project_PAC_v1.2/JogoPC.cpp
+	"JogoPC.h"
+
+1540824212 source:/tmp/guest-ewjfl2/Área de Trabalho/asd/Project_PAC_v1.2/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+	"EmpresaDesenvolvedora.h"
+	"PlataformaDigital.h"
+	"FuncoesDaMain.h"
+
+1543173928 Main.h"
+
+1539830378 source:/tmp/guest-ewjfl2/Área de Trabalho/asd/Project_PAC_v1.2/PlataformaDigital.cpp
+	"PlataformaDigital.h"
+
+1541426715 source:/tmp/guest-qfmd8v/Área de Trabalho/Project_PAC_v1.2/EmpresaDesenvolvedora.cpp
+	"EmpresaDesenvolvedora.h"
+
+1541426716 /tmp/guest-qfmd8v/Área de Trabalho/Project_PAC_v1.2/EmpresaDesenvolvedora.h
+	<iostream>
+	<vector>
+	<string>
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+
+1541427206 /tmp/guest-qfmd8v/Área de Trabalho/Project_PAC_v1.2/Jogo.h
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"PlataformaDigital.h"
+
+1539830353 /tmp/guest-qfmd8v/Área de Trabalho/Project_PAC_v1.2/Genero.h
+	<iostream>
+	<vector>
+	<string>
+
+1539830484 /tmp/guest-qfmd8v/Área de Trabalho/Project_PAC_v1.2/PlataformaDigital.h
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"Jogo.h"
+
+1539830468 /tmp/guest-qfmd8v/Área de Trabalho/Project_PAC_v1.2/JogoPC.h
+	"Jogo.h"
+	<iostream>
+
+1539830349 /tmp/guest-qfmd8v/Área de Trabalho/Project_PAC_v1.2/JogoConsole.h
+	"Jogo.h"
+
+1539830423 source:/tmp/guest-qfmd8v/Área de Trabalho/Project_PAC_v1.2/Genero.cpp
+	"Genero.h"
+
+1541427248 source:/tmp/guest-qfmd8v/Área de Trabalho/Project_PAC_v1.2/Jogo.cpp
+	"Jogo.h"
+
+1539830503 source:/tmp/guest-qfmd8v/Área de Trabalho/Project_PAC_v1.2/JogoConsole.cpp
+	"JogoConsole.h"
+
+1539830506 source:/tmp/guest-qfmd8v/Área de Trabalho/Project_PAC_v1.2/JogoPC.cpp
+	"JogoPC.h"
+
+1539830378 source:/tmp/guest-qfmd8v/Área de Trabalho/Project_PAC_v1.2/PlataformaDigital.cpp
+	"PlataformaDigital.h"
+
+1541426629 source:/tmp/guest-qfmd8v/Área de Trabalho/Project_PAC_v1.2/FuncoesDaMain.cpp
+	"FuncoesDaMain.h"
+	<stdlib.h>
+
+1539830465 /tmp/guest-qfmd8v/Área de Trabalho/Project_PAC_v1.2/FuncoesDaMain.h
+	<iostream>
+	<vector>
+	<string>
+	"PlataformaDigital.h"
+	"EmpresaDesenvolvedora.h"
+
+1541426347 source:/tmp/guest-qfmd8v/Área de Trabalho/Project_PAC_v1.2/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+	"EmpresaDesenvolvedora.h"
+	"PlataformaDigital.h"
+	"FuncoesDaMain.h"
+
+1541426715 source:/tmp/guest-nzhlln/Downloads/Project_PAC_v1.3.1/EmpresaDesenvolvedora.cpp
+	"EmpresaDesenvolvedora.h"
+
+1541426716 /tmp/guest-nzhlln/Downloads/Project_PAC_v1.3.1/EmpresaDesenvolvedora.h
+	<iostream>
+	<vector>
+	<string>
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+
+1541591584 /tmp/guest-nzhlln/Downloads/Project_PAC_v1.3.1/Jogo.h
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"PlataformaDigital.h"
+
+1539830353 /tmp/guest-nzhlln/Downloads/Project_PAC_v1.3.1/Genero.h
+	<iostream>
+	<vector>
+	<string>
+
+1539830484 /tmp/guest-nzhlln/Downloads/Project_PAC_v1.3.1/PlataformaDigital.h
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"Jogo.h"
+
+1539830468 /tmp/guest-nzhlln/Downloads/Project_PAC_v1.3.1/JogoPC.h
+	"Jogo.h"
+	<iostream>
+
+1539830349 /tmp/guest-nzhlln/Downloads/Project_PAC_v1.3.1/JogoConsole.h
+	"Jogo.h"
+
+1541426629 source:/tmp/guest-nzhlln/Downloads/Project_PAC_v1.3.1/FuncoesDaMain.cpp
+	"FuncoesDaMain.h"
+	<stdlib.h>
+
+1539830465 /tmp/guest-nzhlln/Downloads/Project_PAC_v1.3.1/FuncoesDaMain.h
+	<iostream>
+	<vector>
+	<string>
+	"PlataformaDigital.h"
+	"EmpresaDesenvolvedora.h"
+
+1539830423 source:/tmp/guest-nzhlln/Downloads/Project_PAC_v1.3.1/Genero.cpp
+	"Genero.h"
+
+1541427248 source:/tmp/guest-nzhlln/Downloads/Project_PAC_v1.3.1/Jogo.cpp
+	"Jogo.h"
+
+1539830503 source:/tmp/guest-nzhlln/Downloads/Project_PAC_v1.3.1/JogoConsole.cpp
+	"JogoConsole.h"
+
+1539830506 source:/tmp/guest-nzhlln/Downloads/Project_PAC_v1.3.1/JogoPC.cpp
+	"JogoPC.h"
+
+1541426347 source:/tmp/guest-nzhlln/Downloads/Project_PAC_v1.3.1/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+	"EmpresaDesenvolvedora.h"
+	"PlataformaDigital.h"
+	"FuncoesDaMain.h"
+
+1539830378 source:/tmp/guest-nzhlln/Downloads/Project_PAC_v1.3.1/PlataformaDigital.cpp
+	"PlataformaDigital.h"
+
+1543232479 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.14\project_pac_v1.3.14\empresadesenvolvedora.cpp
+	"EmpresaDesenvolvedora.h"
+
+1543235400 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.14\project_pac_v1.3.14\empresadesenvolvedora.h
+	<iostream>
+	<vector>
+	<string>
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+
+1541595184 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.14\project_pac_v1.3.14\jogo.h
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"PlataformaDigital.h"
+
+1539833953 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.14\project_pac_v1.3.14\genero.h
+	<iostream>
+	<vector>
+	<string>
+
+1539834084 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.14\project_pac_v1.3.14\plataformadigital.h
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"Jogo.h"
+
+1539834068 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.14\project_pac_v1.3.14\jogopc.h
+	"Jogo.h"
+	<iostream>
+
+1539833949 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.14\project_pac_v1.3.14\jogoconsole.h
+	"Jogo.h"
+
+1543173994 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.14\project_pac_v1.3.14\funcoesdamain.cpp
+	"FuncoesDaMain.h"
+	<stdlib.h>
+
+1539834065 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.14\project_pac_v1.3.14\funcoesdamain.h
+	<iostream>
+	<vector>
+	<string>
+	"PlataformaDigital.h"
+	"EmpresaDesenvolvedora.h"
+
+1543234645 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.14\project_pac_v1.3.14\jogo.cpp
+	"Jogo.h"
+
+1543238027 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.14\project_pac_v1.3.14\jogoconsole.cpp
+	"JogoConsole.h"
+
+1543237839 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.14\project_pac_v1.3.14\jogopc.cpp
+	"JogoPC.h"
+
+1543173928 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.14\project_pac_v1.3.14\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+	"EmpresaDesenvolvedora.h"
+	"PlataformaDigital.h"
+	"FuncoesDaMain.h"
+
+1539833978 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.14\project_pac_v1.3.14\plataformadigital.cpp
+	"PlataformaDigital.h"
+
+1543243920 source:/tmp/guest-wbm9m9/Área de Trabalho/Project_PAC_v1.3.20/EmpresaDesenvolvedora.cpp
+	"EmpresaDesenvolvedora.h"
+
+1543243756 /tmp/guest-wbm9m9/Área de Trabalho/Project_PAC_v1.3.20/EmpresaDesenvolvedora.h
+	<iostream>
+	<vector>
+	<string>
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+	<fstream>
+
+1543243840 /tmp/guest-wbm9m9/Área de Trabalho/Project_PAC_v1.3.20/Jogo.h
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"PlataformaDigital.h"
+
+1539830353 /tmp/guest-wbm9m9/Área de Trabalho/Project_PAC_v1.3.20/Genero.h
+	<iostream>
+	<vector>
+	<string>
+
+1539830484 /tmp/guest-wbm9m9/Área de Trabalho/Project_PAC_v1.3.20/PlataformaDigital.h
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"Jogo.h"
+
+1543242418 /tmp/guest-wbm9m9/Área de Trabalho/Project_PAC_v1.3.20/JogoPC.h
+	"Jogo.h"
+	<iostream>
+
+1543242180 /tmp/guest-wbm9m9/Área de Trabalho/Project_PAC_v1.3.20/JogoConsole.h
+	"Jogo.h"
+
+1543242414 source:/tmp/guest-wbm9m9/Área de Trabalho/Project_PAC_v1.3.20/Jogo.cpp
+	"Jogo.h"
+
+1543234427 source:/tmp/guest-wbm9m9/Área de Trabalho/Project_PAC_v1.3.20/JogoConsole.cpp
+	"JogoConsole.h"
+
+1543234239 source:/tmp/guest-wbm9m9/Área de Trabalho/Project_PAC_v1.3.20/JogoPC.cpp
+	"JogoPC.h"
+
+1543170328 source:/tmp/guest-wbm9m9/Área de Trabalho/Project_PAC_v1.3.20/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+	"EmpresaDesenvolvedora.h"
+	"PlataformaDigital.h"
+	"FuncoesDaMain.h"
+
+1539830465 /tmp/guest-wbm9m9/Área de Trabalho/Project_PAC_v1.3.20/FuncoesDaMain.h
+	<iostream>
+	<vector>
+	<string>
+	"PlataformaDigital.h"
+	"EmpresaDesenvolvedora.h"
+
+1539830378 source:/tmp/guest-wbm9m9/Área de Trabalho/Project_PAC_v1.3.20/PlataformaDigital.cpp
+	"PlataformaDigital.h"
+
+1543243682 source:/tmp/guest-wbm9m9/Área de Trabalho/Project_PAC_v1.3.20/FuncoesDaMain.cpp
+	"FuncoesDaMain.h"
+	<stdlib.h>
+	<fstream>
+
+1543247282 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.21\project_pac_v1.3.21\funcoesdamain.cpp
+	"FuncoesDaMain.h"
+	<stdlib.h>
+	<fstream>
+
+1539834065 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.21\project_pac_v1.3.21\funcoesdamain.h
+	<iostream>
+	<vector>
+	<string>
+	"PlataformaDigital.h"
+	"EmpresaDesenvolvedora.h"
+
+1539834084 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.21\project_pac_v1.3.21\plataformadigital.h
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"Jogo.h"
+
+1539833953 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.21\project_pac_v1.3.21\genero.h
+	<iostream>
+	<vector>
+	<string>
+
+1543268125 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.21\project_pac_v1.3.21\jogo.h
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"PlataformaDigital.h"
+	<fstream>
+
+1543247356 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.21\project_pac_v1.3.21\empresadesenvolvedora.h
+	<iostream>
+	<vector>
+	<string>
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+	<fstream>
+
+1543268123 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.21\project_pac_v1.3.21\jogopc.h
+	"Jogo.h"
+	<iostream>
+
+1543266525 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.21\project_pac_v1.3.21\jogoconsole.h
+	"Jogo.h"
+
+1543266207 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.21\project_pac_v1.3.21\jogo.cpp
+	"Jogo.h"
+
+1543269083 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.21\project_pac_v1.3.21\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+	"EmpresaDesenvolvedora.h"
+	"PlataformaDigital.h"
+	"FuncoesDaMain.h"
+
+1543267382 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.21\project_pac_v1.3.21\plataformadigital.cpp
+	"PlataformaDigital.h"
+
+1543268591 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.21\project_pac_v1.3.21\empresadesenvolvedora.cpp
+	"EmpresaDesenvolvedora.h"
+
+1543268600 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.21\project_pac_v1.3.21\jogoconsole.cpp
+	"JogoConsole.h"
+
+1543267967 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.21\project_pac_v1.3.21\jogopc.cpp
+	"JogoPC.h"
+
+1543367935 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.23\project_pac_v1.3.23\empresadesenvolvedora.cpp
+	"EmpresaDesenvolvedora.h"
+
+1543373970 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.23\project_pac_v1.3.23\empresadesenvolvedora.h
+	<iostream>
+	<vector>
+	<string>
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+	<fstream>
+
+1543400765 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.23\project_pac_v1.3.23\jogo.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	"Genero.h"
+
+1539833953 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.23\project_pac_v1.3.23\genero.h
+	<iostream>
+	<vector>
+	<string>
+
+1543400799 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.23\project_pac_v1.3.23\plataformadigital.h
+	<iostream>
+	<vector>
+	<string>
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+
+1543373941 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.23\project_pac_v1.3.23\jogopc.h
+	"Jogo.h"
+	<iostream>
+
+1543373941 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.23\project_pac_v1.3.23\jogoconsole.h
+	"Jogo.h"
+
+1543247282 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.23\project_pac_v1.3.23\funcoesdamain.cpp
+	"FuncoesDaMain.h"
+	<stdlib.h>
+	<fstream>
+
+1539834065 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.23\project_pac_v1.3.23\funcoesdamain.h
+	<iostream>
+	<vector>
+	<string>
+	"PlataformaDigital.h"
+	"EmpresaDesenvolvedora.h"
+
+1543333691 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.23\project_pac_v1.3.23\jogo.cpp
+	"Jogo.h"
+
+1543333736 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.23\project_pac_v1.3.23\jogoconsole.cpp
+	"JogoConsole.h"
+
+1543401037 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.23\project_pac_v1.3.23\jogopc.cpp
+	"JogoPC.h"
+
+1543367860 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.23\project_pac_v1.3.23\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Genero.h"
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+	"EmpresaDesenvolvedora.h"
+	"PlataformaDigital.h"
+	"FuncoesDaMain.h"
+
+1543401011 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.23\project_pac_v1.3.23\plataformadigital.cpp
+	"PlataformaDigital.h"
+
+1543430070 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.63 - copia\project_pac_v1.3.63\empresadesenvolvedora.cpp
+	"EmpresaDesenvolvedora.h"
+
+1543373970 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.63 - copia\project_pac_v1.3.63\empresadesenvolvedora.h
+	<iostream>
+	<vector>
+	<string>
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+	<fstream>
+
+1543428523 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.63 - copia\project_pac_v1.3.63\jogo.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
+1543428547 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.63 - copia\project_pac_v1.3.63\jogopc.h
+	"Jogo.h"
+	<iostream>
+
+1543428555 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.63 - copia\project_pac_v1.3.63\jogoconsole.h
+	"Jogo.h"
+
+1543247282 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.63 - copia\project_pac_v1.3.63\funcoesdamain.cpp
+	"FuncoesDaMain.h"
+	<stdlib.h>
+	<fstream>
+
+1539834065 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.63 - copia\project_pac_v1.3.63\funcoesdamain.h
+	<iostream>
+	<vector>
+	<string>
+	"PlataformaDigital.h"
+	"EmpresaDesenvolvedora.h"
+
+1543427183 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.63 - copia\project_pac_v1.3.63\plataformadigital.h
+	<iostream>
+	<vector>
+	<string>
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+
+1543333691 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.63 - copia\project_pac_v1.3.63\jogo.cpp
+	"Jogo.h"
+
+1543430892 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.63 - copia\project_pac_v1.3.63\jogoconsole.cpp
+	"JogoConsole.h"
+
+1543430887 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.63 - copia\project_pac_v1.3.63\jogopc.cpp
+	"JogoPC.h"
+
+1543432456 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.63 - copia\project_pac_v1.3.63\plataformadigital.cpp
+	"PlataformaDigital.h"
+
+1543431018 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.3.63 - copia\project_pac_v1.3.63\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+	"EmpresaDesenvolvedora.h"
+	"PlataformaDigital.h"
+	"FuncoesDaMain.h"
+
+1543430070 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.4.07\project_pac_v1.4.07\empresadesenvolvedora.cpp
+	"EmpresaDesenvolvedora.h"
+
+1543373970 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.4.07\project_pac_v1.4.07\empresadesenvolvedora.h
+	<iostream>
+	<vector>
+	<string>
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+	<fstream>
+
+1543428523 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.4.07\project_pac_v1.4.07\jogo.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
+1543428547 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.4.07\project_pac_v1.4.07\jogopc.h
+	"Jogo.h"
+	<iostream>
+
+1543428555 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.4.07\project_pac_v1.4.07\jogoconsole.h
+	"Jogo.h"
+
+1543247282 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.4.07\project_pac_v1.4.07\funcoesdamain.cpp
+	"FuncoesDaMain.h"
+	<stdlib.h>
+	<fstream>
+
+1539834065 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.4.07\project_pac_v1.4.07\funcoesdamain.h
+	<iostream>
+	<vector>
+	<string>
+	"PlataformaDigital.h"
+	"EmpresaDesenvolvedora.h"
+
+1543427183 c:\users\pc\desktop\aleatorios\pac\project_pac_v1.4.07\project_pac_v1.4.07\plataformadigital.h
+	<iostream>
+	<vector>
+	<string>
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+
+1543333691 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.4.07\project_pac_v1.4.07\jogo.cpp
+	"Jogo.h"
+
+1543430892 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.4.07\project_pac_v1.4.07\jogoconsole.cpp
+	"JogoConsole.h"
+
+1543430887 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.4.07\project_pac_v1.4.07\jogopc.cpp
+	"JogoPC.h"
+
+1543431018 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.4.07\project_pac_v1.4.07\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Jogo.h"
+	"JogoPC.h"
+	"JogoConsole.h"
+	"EmpresaDesenvolvedora.h"
+	"PlataformaDigital.h"
+	"FuncoesDaMain.h"
+
+1543432658 source:c:\users\pc\desktop\aleatorios\pac\project_pac_v1.4.07\project_pac_v1.4.07\plataformadigital.cpp
+	"PlataformaDigital.h"
+

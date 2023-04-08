@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="pacson" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/pacson" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/pacson" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../EmpresaDesenvolvedora.cpp" />
+		<Unit filename="../EmpresaDesenvolvedora.h" />
+		<Unit filename="../FuncoesDaMain.cpp" />
+		<Unit filename="../FuncoesDaMain.h" />
+		<Unit filename="../Jogo.cpp" />
+		<Unit filename="../Jogo.h" />
+		<Unit filename="../JogoConsole.cpp" />
+		<Unit filename="../JogoConsole.h" />
+		<Unit filename="../JogoPC.cpp" />
+		<Unit filename="../JogoPC.h" />
+		<Unit filename="../PlataformaDigital.cpp" />
+		<Unit filename="../PlataformaDigital.h" />
+		<Unit filename="../main.cpp" />
+		<Unit filename="EmpresaDesenvolvedora.txt" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
